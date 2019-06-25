@@ -1,0 +1,15 @@
+body {
+background-image:url("back.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+button {
+color: green;
+border-radius: 20px;
+}
+div {
+background-color: gray;
+padding: 20px;
+border-radius: 20px;
+}
